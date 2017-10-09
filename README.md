@@ -1,14 +1,11 @@
-# TestAPI
+# Express Angular Node (EAN) Test API
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
+The purpose of this project is to create a small web service that serves up a simple API for testing purposes. A further goal is to build it using Node.js and Express as a learning opportunity.
 
-## Development server
+## Prerequisites
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|module`.
+* [Node.js](https://nodejs.org/en/) (v6.11.1)
+* [Angular CLI](https://github.com/angular/angular-cli) (v1.2.1)
 
 ## Build
 
